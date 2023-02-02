@@ -1,0 +1,2 @@
+setuptools~=65.6.3
+psutil~=5.9.0
